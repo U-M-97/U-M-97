@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Usama Maqsood
-- 👀 I’m interested in Web and Blockchain Development
-- 🌱 I’m currently learning Blockchain 
-- 💞️ I’m looking to collaborate on Web and Blockchain
+- 👀 I’m interested in Full Stack Applications development
+- 🌱  
+- 💞️ I’m looking to collaborate on any application development
 - 📫 How to reach me You can contact me anywhere on my Twitter or email etc
 
 <!---
